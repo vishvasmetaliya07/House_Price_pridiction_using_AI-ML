@@ -3,6 +3,9 @@ from tkinter import ttk
 import pickle
 from tkinter import messagebox
 from sklearn.preprocessing import StandardScaler
+import warnings 
+
+warnings.filterwarnings("ignore")
 
 
 
